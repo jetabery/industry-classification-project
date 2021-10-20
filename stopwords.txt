@@ -185,3 +185,14 @@ the
 of
 also
 in
+per
+hour
+city
+pts
+ptas
+ots
+otas
+slps
+ave
+st
+see
