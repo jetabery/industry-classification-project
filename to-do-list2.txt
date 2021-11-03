@@ -1,0 +1,17 @@
+Task 1
+Generalize all the preprocessing tasks into one single function that can be use in the Vectorizer (passing boolean to make sure that you can activate or deactivate on preprocessing step)
+
+Task 2
+Work and research on Hashing Vectorizer. What advantage and disadvantage it gives. Implement it for you project (use TFidf for the rest)
+
+Task 3
+Research and create a presentation of the model you have been assign to work on. 
+
+Task 4
+Implement your research model in order to predict industries on your dataset
+
+Task 5
+Learn and implement techniques to evaluate your model Use sklearn (https://scikit-learn.org/stable/modules/model_evaluation.html)
+
+Task 6 (Optional)
+Create a WordCloud for each cluster predicted by your model
